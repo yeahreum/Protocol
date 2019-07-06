@@ -1,5 +1,4 @@
-# Protocol-
-Yeahreum Protocol 
+# Protocol V1.2.3
 Yeahreum' Protocol Documentation 
 =====================================
 
