@@ -1,4 +1,4 @@
-Protocol Documentation - 0.12.1
+Yeahreum' Protocol Documentation 
 =====================================
 
 This document describes the protocol extensions for all additional functionality build into the Yeahreum protocol. This doesn't include any of the Bitcoin protocol, which has been left intact in the Yeahreum project. For more information about the core protocol, please see https://en.bitcoin.it/w/index.php?title#Protocol_documentation&action#edit
